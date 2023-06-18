@@ -1,5 +1,5 @@
 - 👋 Hi, I’m João
-- 👀 I’m interested in graphic design, UI design
+- 👀 I’m interested in Graphic Design, UI design
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 
